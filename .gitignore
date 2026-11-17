@@ -1,0 +1,13 @@
+# Sistema / Python
+.DS_Store
+__pycache__/
+*.pyc
+
+# Cachés y archivos pesados regenerables
+salida/cache_vep/
+salida/cache_genes/
+salida/modelos_af/
+salida/
+
+# Archivos temporales de Excel
+~$*.xlsx
